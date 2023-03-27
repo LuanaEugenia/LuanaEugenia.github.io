@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;  
+  margin: 0;
+  border: 0;
+}
+
+body {
+    background-color: #dbeee3;
+}
+
+
+img {
+    border-radius: 25px;
+}
+
+h1 {
+    font-weight: 300;
+    line-height: 1.2;
+    font-size: 3.5rem;
+    font-family: 'Newsreader';
+} 
+
+header {
+    text-align: center;    
+    
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    text-align: center;
+    background-color: #9feec0;
+}
